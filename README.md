@@ -12,7 +12,7 @@ repositorio de armazenamento de resumos de Git e GitHub do curso de Versamento d
 | aulas | Resumos |
 |-------|---------|
 | Clonado repositorios | [Resumos](https://docs.google.com/document/d/1kQUFFxv_62eb1hQdYyTmHPQ3J6f3VZJFuQSke3HcEss/edit?usp=sharing)|
-| Gravando alterações no repositorio local | [Resumo]()|
+| Gravando alterações no repositorio local | [Resumo](https://docs.google.com/document/d/1RmzzJyP26tmz1oNyFKighn1oId7YHbjTTRuONTYSs1Q/edit?usp=sharing)|
 
 ## 🤔Referências 
 
