@@ -11,8 +11,9 @@ repositorio de armazenamento de resumos de Git e GitHub do curso de Versamento d
 
 | aulas | Resumos |
 |-------|---------|
-| Clonado repositorios | [Resumos](https://docs.google.com/document/d/1kQUFFxv_62eb1hQdYyTmHPQ3J6f3VZJFuQSke3HcEss/edit?usp=sharing)|
-| Gravando alterações no repositorio local | [Resumo](https://docs.google.com/document/d/1RmzzJyP26tmz1oNyFKighn1oId7YHbjTTRuONTYSs1Q/edit?usp=sharing)|
+| Clonado repositorios | [Resumo](https://github.com/Rafael705/dio-resumos-git-e-github/blob/main/resumos/Clonando_repositorios.md)|
+| Gravando alterações no repositorio local | [Resumo](https://github.com/Rafael705/dio-resumos-git-e-github/blob/main/resumos/Gravando_alteracao.md)|
+| Comandos Essenciais | [Resumo] (https://github.com/Rafael705/dio-resumos-git-e-github/blob/main/resumos/Comandos.md)|
 
 ## 🤔Referências 
 
