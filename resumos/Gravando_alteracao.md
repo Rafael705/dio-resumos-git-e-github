@@ -1,7 +1,8 @@
-# 🖥️ DIO |- Novos Comandos do Git e Terminal
-
-## ℹ️ Sobre Este Resumo
-Este documento reúne os principais comandos aprendidos na aula sobre Git e terminal. Ele aborda desde a criação e manipulação de arquivos até a gestão de versões com o Git. O objetivo é fornecer um guia prático para o uso eficiente do Git no controle de versões de projetos.
+<h1>
+    <a href="https://github.com/Rafael705">
+     <img align="center" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
+    <span> Extra </span>
+</h1>
 
 ## 📌 Novos Comandos do Git e Terminal
 
@@ -82,11 +83,13 @@ git log -- arquivo.txt
 
 ---
 ## 📌 Resumo da Aula de Hoje
+```
 ✅ `echo` → Escreve textos no terminal ou cria arquivos com conteúdo.  
 ✅ `.gitignore` → Arquivo que define quais arquivos o Git deve ignorar.  
 ✅ `touch` → Cria arquivos vazios.  
 ✅ `.gitkeep` → Mantém pastas vazias no Git.  
 ✅ `git log` → Mostra o histórico de commits.  
+```
+##
+<div align="center">💻🛠️ Feito por <a href="https://github.com/Rafael705">Rafael Pontes 💻🛠️</a>.</div>
 
----
-🛠️ **Criado por [Rafael Pontes](https://github.com/Rafael705)** 🚀
