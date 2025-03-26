@@ -64,4 +64,4 @@ Introduzir ao versionamento de código com Git e GitHub.
 - [MICROSOFT. Microsoft to acquire GitHub for $7.5 billion](https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/)
 
 ##
-<div align="center">Feito com 💙 por <a href="https://github.com/Rafael705">Rafael</a>.</div>
+<div align="center">💻🛠️ Feito por <a href="https://github.com/Rafael705">Rafael Pontes 💻🛠️</a>.</div>
