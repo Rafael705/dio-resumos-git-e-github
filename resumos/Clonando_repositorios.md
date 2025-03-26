@@ -1,9 +1,12 @@
-# 🚀 Guia de Clonagem e Conexão de Repositórios Git
+<h1>
+    <a href="https://github.com/Rafael705">
+     <img align="center" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
+    <span> Guia de Clonagem e Conexão de Repositórios Git</span>
+</h1>
 
-Este guia explica como clonar um repositório, conectar um repositório local ao GitHub e enviar arquivos para o repositório remoto.
+## 📌 Clonando Repositórios
 
-## 📌 1. Clonar um Repositório (Cópia do Remoto para o Local)
-Você pode clonar um repositório do GitHub para sua máquina com:
+Você pode clonar um repositório do GitHub para sua máquina usando os seguintes métodos:
 
 🔹 **Usando HTTPS:**
 ```bash
@@ -15,7 +18,7 @@ git clone https://github.com/usuario/repositorio.git
 git clone git@github.com:usuario/repositorio.git
 ```
 
-## 📌 2. Conectar um Repositório Local ao GitHub (Ligar o Local ao Remoto)
+## 📌 Conectando um Repositório Local ao GitHub
 Se já tiver um repositório local e quiser conectá-lo ao GitHub:
 
 🔹 **Adicionando um repositório remoto via HTTPS:**
@@ -33,16 +36,37 @@ git remote add origin git@github.com:usuario/repositorio.git
 git remote -v
 ```
 
-## 📌 3. Enviar Arquivos do Repositório Local para o Remoto (Push)
-Depois de conectar, envie os arquivos para o GitHub:
+## 📌 Enviando Arquivos para o Repositório Remoto
 
+Após conectar o repositório, envie os arquivos para o GitHub:
 ```bash
 git add .
 git commit -m "Primeiro commit"
 git push -u origin main
 ```
 
----
-📌 **Dica:** Sempre verifique se está na branch correta antes de enviar arquivos para o repositório remoto!
+## 📌 Desfazendo Alterações no Repositório Local
 
-🛠️ **Criado por [Seu Nome](https://github.com/Rafael705)** 🚀
+🔹 **Como alterar a mensagem do último commit:**
+```bash
+git commit --amend
+```
+
+🔹 **Alterando a mensagem sem abrir o editor:**
+```bash
+git commit --amend -m "nova mensagem"
+```
+
+🔹 **Como desfazer um commit:**
+```bash
+git reset --soft
+```
+```bash
+git reset --mixed
+```
+```bash
+git reset --hard
+```
+
+##
+<div align="center">💻🛠️ Feito por <a href="https://github.com/Rafael705">Rafael Pontes 💻🛠️</a>.</div>
